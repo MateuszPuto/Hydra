@@ -4,6 +4,3 @@ Combines the benefits of convoutional networks with graph neural nets. Consists 
 
 - Achieves around 99.3% - 99.4% accuracy on MNIST.
 - Experimental language modeling capabilities
-
-________
-AI generated code
